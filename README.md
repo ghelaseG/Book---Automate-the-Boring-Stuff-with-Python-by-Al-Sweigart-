@@ -1,1 +1,2 @@
-# Book---Automate-the-Boring-Stuff-with-Python-by-Al-Sweigart-
+### “Automate the Boring Stuff with Python” – by Al Sweigart is the first book I chose to learn to program with Python. If you’re a beginner like me, I recommend this book, but not to start with, as it will demotivate you at some point. So I suggest starting with the course from Udemy, called: “Complete Python Bootcamp From Zero to Hero in Python” – by Jose Portilla. Then you can jump on this book or anything else.
+### The projects have been completed using Github or Stackoverflow and sometimes YouTube. I used the IDE PyCharm on MacOS. Enjoy!
